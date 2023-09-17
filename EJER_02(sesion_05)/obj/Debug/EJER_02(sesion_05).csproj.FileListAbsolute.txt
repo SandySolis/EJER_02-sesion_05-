@@ -1,0 +1,7 @@
+C:\Users\USUARIO\Desktop\sistemas\EJER_02(sesion_05)\EJER_02(sesion_05)\bin\Debug\EJER_02(sesion_05).exe.config
+C:\Users\USUARIO\Desktop\sistemas\EJER_02(sesion_05)\EJER_02(sesion_05)\bin\Debug\EJER_02(sesion_05).exe
+C:\Users\USUARIO\Desktop\sistemas\EJER_02(sesion_05)\EJER_02(sesion_05)\bin\Debug\EJER_02(sesion_05).pdb
+C:\Users\USUARIO\Desktop\sistemas\EJER_02(sesion_05)\EJER_02(sesion_05)\obj\Debug\EJER_02(sesion_05).csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\sistemas\EJER_02(sesion_05)\EJER_02(sesion_05)\obj\Debug\EJER_02(sesion_05).csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\sistemas\EJER_02(sesion_05)\EJER_02(sesion_05)\obj\Debug\EJER_02(sesion_05).exe
+C:\Users\USUARIO\Desktop\sistemas\EJER_02(sesion_05)\EJER_02(sesion_05)\obj\Debug\EJER_02(sesion_05).pdb
